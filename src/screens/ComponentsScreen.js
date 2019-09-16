@@ -9,6 +9,7 @@ const ComponentsScreen = () => {
   );
 };
 
+//Styles for the component
 const styles = StyleSheet.create({
   textStyle: {
     fontSize: 30
