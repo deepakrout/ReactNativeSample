@@ -5,9 +5,10 @@ const HomeScreen = () => {
     return <Text style = { styles.text } > Hi There </Text>;
 };
 
+//Stles for the componenet 
 const styles = StyleSheet.create({
     text: {
-        fontSize: 45
+        fontSize: 35
     }
 });
 
